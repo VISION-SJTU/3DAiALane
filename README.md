@@ -1,4 +1,4 @@
-# 3D Lane Detection With Attention in Attention SPL 2024
+# 3D Lane Detection With Attention in Attention
 
 ![image](image/main_structure.png)
 
