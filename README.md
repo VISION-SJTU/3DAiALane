@@ -23,7 +23,7 @@
 
 ### Introduction
 
-We introduce an efficient and robust monocular 3D lane detection model. First, we propose an attention mechanism called attention in attention, to explore the relationship between various correlations and mitigates mismatched correlation problems in attention computation. Furthermore, we introduce a novel feature fusion structure in the backbone called the double feature pyramid network, which effectively gathers feature information with various dimensions and enlarges the receptive field. Our network is based on the [BEV-LaneDet](https://arxiv.org/abs/2210.06006) and achieves impressive performance on the OpenLane dataset. Our paper has been accepted by [Signal Processing Letters 2024](https://ieeexplore.ieee.org/abstract/document/10500508)
+We introduce an efficient and robust monocular 3D lane detection model. First, we propose an attention mechanism called attention in attention, to explore the relationship between various correlations and mitigates mismatched correlation problems in attention computation. Furthermore, we introduce a novel feature fusion structure in the backbone called the double feature pyramid network, which effectively gathers feature information with various dimensions and enlarges the receptive field. Our network is based on the [BEV-LaneDet](https://arxiv.org/abs/2210.06006) and achieves impressive performance on the OpenLane dataset. Our paper has been accepted by [IEEE Signal Processing Letters 2024](https://ieeexplore.ieee.org/abstract/document/10500508)
 
 ### Installation
 - To run our code, make sure you are using a machine with at least one GPU.
