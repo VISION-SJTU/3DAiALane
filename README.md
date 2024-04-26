@@ -34,16 +34,15 @@ pip install -r requirement.txt
 
 ### Training
 - Please refer to [OpenLane](https://github.com/OpenPerceptionX/OpenLane) for downloading OpenLane Dataset. For example: download OpenLane dataset to /dataset/openlane
-
-1. Please modify the configuration in the /openlane_config.py
-2. Execute the following command in the console:
+- Please modify the configuration in the /openlane_config.py
+- Execute the following command in the console:
 ```
 python train_openlane.py
 ```
 
 ### Evaluation
-1. Please modify the configuration in the /val_openlane.py
-2. Execute the following command in the console:
+- Please modify the configuration in the /val_openlane.py
+- Execute the following command in the console:
 ```
 python val_openlane.py
 ```
